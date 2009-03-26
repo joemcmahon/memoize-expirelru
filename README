@@ -1,0 +1,13 @@
+This is the README file for Memoize::ExpireLRU
+
+Memoize::ExpireLRU is a module that implements LRU expiration for
+Memoize.
+
+To build and install this extension:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+Memoize::ExpireLRU requires Memoize version 0.52 or greater.

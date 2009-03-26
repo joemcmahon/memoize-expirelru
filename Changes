@@ -1,0 +1,13 @@
+Revision history for Perl extension String::Strip
+
+0.52  Wed Mar  8 23:08:34 EST 2000
+	- original version
+
+0.53  Thu Apr  6 23:34:12 EDT 2000
+	- Tiny bug fixes (!= -> ne)
+
+0.54  Tue Apr 11 21:46:37 EDT 2000
+	- Big bug fixes. Consider this the first working version
+
+0.55  Tue Apr 11 21:46:37 EDT 2000
+	- Just why can't you save from a screwed up upload on PAUSE?
